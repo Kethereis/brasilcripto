@@ -1,4 +1,4 @@
-# 🇧🇷 Brasil Cripto — Consulta de Criptomoedas em Tempo Real
+# Brasil Cripto — Consulta de Criptomoedas em Tempo Real
 
 Este projeto tem como objetivo permitir a **consulta de criptomoedas com valores atualizados em tempo real**, além de fornecer gráficos e indicadores para acompanhamento do mercado de forma contínua.
 
